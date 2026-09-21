@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @K0RAXX
-- 👀 I’m interested in ... Flipper Zero, Videogame CFW
-- 🌱 I’m currently learning ... Flipper Zero Cracking, Videogame Mods, Agentic Coding 
-- 💞️ I’m looking to collaborate on ... Flipper Zero Projects, 3DS CFW, OpenClaw
+
+Software Developer & AI Builder | Full-Stack • Automation • Cybersecurity • Bots • Developer Tools
+
+Turning ideas into functional applications through AI-assisted engineering, automation, security research, and rapid prototyping.
+
+- 👀 I’m interested in ... Agentic AI, Claude code,
+- 🌱 I’m currently learning ...Agentic Coding,Claude code
+- 💞️ I’m looking to collaborate on .. Claude code, writing and copywriting 
 - 📫 How to reach me ... koraxchief@gmail.com 
 - 📚 17 Syllable Poetry on Instagram @crystal_limb
 
