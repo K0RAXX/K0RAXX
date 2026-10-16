@@ -4,9 +4,9 @@ Software Developer & AI Builder | Full-Stack • Automation • Cybersecurity �
 
 Turning ideas into functional applications through AI-assisted engineering, automation, security research, and rapid prototyping.
 
-- 👀 I’m interested in ... Agentic AI, Claude code,
-- 🌱 I’m currently learning ...Agentic Coding,Claude code
-- 💞️ I’m looking to collaborate on .. Claude code, writing and copywriting 
+- 👀 I’m interested in ... Agentic AI, Claude code, Application and Software Development
+- 🌱 I’m currently learning ...Agentic Coding, Claude code, game design, algoithmic art
+- 💞️ I’m looking to collaborate on .. Claude code, writing and copywriting, Testing, Marketing 
 - 📫 How to reach me ... koraxchief@gmail.com 
 - 📚 17 Syllable Poetry on Instagram @crystal_limb
 
